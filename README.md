@@ -1,4 +1,4 @@
-# Noor — Non-Clinical Reflective Wellness App 🌿
+# Noor — Reflective Wellness App 🌿
 
 Noor is an open, non-clinical digital sanctuary designed for self-expression, gentle play, companion progression, and authentic human connection without algorithmic pressure or clinical pathologizing.
 
