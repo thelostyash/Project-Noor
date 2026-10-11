@@ -1,0 +1,9 @@
+[
+  "backend/tests/test_api.py::test_activities_and_sessions",
+  "backend/tests/test_api.py::test_community_and_moderation",
+  "backend/tests/test_api.py::test_companion_progression",
+  "backend/tests/test_api.py::test_health",
+  "backend/tests/test_api.py::test_identity_and_consent_flow",
+  "backend/tests/test_api.py::test_journal_crud_and_consent_reflection",
+  "backend/tests/test_api.py::test_safety_and_crisis_resources"
+]
